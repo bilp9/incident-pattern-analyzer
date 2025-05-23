@@ -77,4 +77,4 @@ pip install -r requirements.txt
 
 ## 📬 Contact
 
-For feedback or collaboration, feel free to connect with me on [LinkedIn](https://www.linkedin.com).
+For feedback or collaboration, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pierrebilly).
